@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "@elastic/elasticsearch": "^7.17.0",
-    "puppeteer": "^13.5.1"
+    "puppeteer": "^13.7.0"
   }
 }
